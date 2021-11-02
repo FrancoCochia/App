@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2029817820
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 578f312f70b55b72f7f5fe85a9e9d6ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 43dc777a9db567e40a6bbe47e6af21cc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Model/model.jpg
+- Assets/Model/model5.fbx
+Dependencies: []
